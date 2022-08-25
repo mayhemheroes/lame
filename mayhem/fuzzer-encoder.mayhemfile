@@ -1,0 +1,4 @@
+project: PROJECT
+target: fuzzer-encoder
+cmds:
+- cmd: /out/fuzzer-encoder
